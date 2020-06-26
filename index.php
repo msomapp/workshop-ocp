@@ -1,5 +1,5 @@
 <?php
-echo "<h1>Openshift Workshop v3.0 turbo intercooler</h1> ";
+echo "<h1>Openshift Workshop v3.1 Turbo Diesel Intercooler</h1> ";
 echo $_SERVER['SERVER_ADDR'];
 echo "<br><hr>";
 echo "<h2>Cidades cadastradas no Banco de Dados:</h2>";
